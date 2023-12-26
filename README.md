@@ -1,6 +1,6 @@
 Hi there 👋
-
-<!--
+🔭I'm currently pursuing my BTech in IT from NIT JALANDHAR,PUNJAB.
+🌱 I’m currently learning computer science with the help of ...
 **Ahmadhussa/Ahmadhussa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
